@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+build/
+dist/
+.gradle/
+.idea/
+local.properties
+**/google-services.json
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.apk
+*.aab

@@ -1,0 +1,59 @@
+.container {
+    display: flex;
+    background-color:  #f0ffff;
+    height: 100vh;
+    
+  }
+  
+  .form-container {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .button {
+    margin-top: 20px;
+    margin-left: 330px;
+    margin-bottom: 20px;
+      background-color: #7b96ec;
+      color: white;
+      padding: 10px;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+    }
+  .lines {
+    background-color: #7b96ec;
+      color: white;
+      padding: 10px;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+  }
+  .span {
+    display: block;
+  }
+  
+  .map-container {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+    .form-container,
+    .map-container {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .container {
+      flex-direction: column;
+      width: 110%;
+  }
+  form-container,
+    .map-container {
+      width: 100%;
+    }
+    }
