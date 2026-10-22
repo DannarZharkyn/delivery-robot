@@ -44,8 +44,6 @@ Compass runs on an Android phone and acts as the robot’s GPS/heading component
 - [Thesis in Kazakh](docs/Жарқын%20Дәннәр%20диплом.docx), with service credentials redacted.
 - [Presentation and original demo video](https://github.com/DannarZharkyn/delivery-robot/releases/tag/diploma-2023). The presentation contains an embedded copy of the demo video.
 
-The original diploma presentation and demonstration video are available in the repository’s Releases section.
-
 ## Opening the applications
 
 **Website:** open `web` in an editor. Set your Firebase configuration in both `src/firebase.js` and `src/pages/Main.jsx`, and a restricted Google Maps browser key in `Main.jsx`. The scripts are `npm start` and `npm run build`. Install dependencies with `npm ci --legacy-peer-deps`. Both npm and Yarn lockfiles are included.
