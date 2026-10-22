@@ -1,5 +1,7 @@
 # Delivery Robot Control System
 
+A delivery robot prototype designed to carry an order to a selected destination and let the recipient open its compartment using a keypad code. The project brings a web control interface and an Android phone together with the robot’s motors, sensors, and lock.
+
 Bachelor’s diploma project by **Dannar Zharkyn**, L. N. Gumilyov Eurasian National University, Astana, **2023**.
 
 Original title: **Робот-көмекшіні басқару жүйесін әзірлеу** (Development of a control system for an assistant robot).
@@ -7,6 +9,12 @@ Original title: **Робот-көмекшіні басқару жүйесін ә
 A delivery robot prototype combining a browser control interface, an Android phone for location and heading, Firebase Realtime Database, an ESP8266 Wi-Fi bridge, and an Arduino Mega controller for motors, obstacle sensors, and a locked delivery compartment.
 
 This repository preserves the recovered diploma project. It is an archival snapshot with credentials removed, not a verified working rebuild. Original Desktop files remain unchanged.
+
+[![Delivery robot prototype during the original demo, with heading and GPS readings](docs/images/delivery-robot-demo.jpg)](https://github.com/DannarZharkyn/delivery-robot/releases/download/diploma-2023/Diploma.MOV)
+
+*Robot prototype in the original 2023 demo. Select the image to download the full video.*
+
+**[Demo video · 3 minutes (MOV, 344 MB)](https://github.com/DannarZharkyn/delivery-robot/releases/download/diploma-2023/Diploma.MOV)** · [Diploma presentation (PPTX, 358 MB)](https://github.com/DannarZharkyn/delivery-robot/releases/download/diploma-2023/diploma-presentation-2023.pptx) · [Restoration notes](docs/RESTORATION.md)
 
 ## Project files
 
