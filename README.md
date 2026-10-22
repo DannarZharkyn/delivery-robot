@@ -44,7 +44,7 @@ Compass runs on an Android phone and acts as the robot’s GPS/heading component
 - [Thesis in Kazakh](docs/Жарқын%20Дәннәр%20диплом.docx), with service credentials redacted.
 - [Presentation and original demo video](https://github.com/DannarZharkyn/delivery-robot/releases/tag/diploma-2023). The presentation contains an embedded copy of the demo video.
 
-The presentation and video are available as release downloads. `docs/archive-manifest.json` records the original source filenames, sizes, and SHA-256 hashes. The redacted thesis intentionally differs from its original hash.
+The original diploma presentation and demonstration video are available in the repository’s Releases section.
 
 ## Opening the applications
 
